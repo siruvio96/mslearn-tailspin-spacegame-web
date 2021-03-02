@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/silviofilidevelop/space-webproject/_apis/build/status/siruvio96.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/silviofilidevelop/space-webproject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
